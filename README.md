@@ -6,7 +6,7 @@ When I'm not coding you'll find me gaming, hiking a mountain, diving somewhere b
 
 ## My sites
 
-- 💼 **[satriko.dev](https://satriko.dev)**: the professional one, with my experience, projects and resume.
+- 💼 **[satriko.dev](https://satriko.dev)**: my main site, with my experience, projects and resume.
 - 🏠 **[room.satriko.dev](https://room.satriko.dev)**: the playful one, a cozy 3D room where you click around my desk, bookshelf and TV, and Oyen the cat shows you around. ([source](https://github.com/SatrikoAditya/satriko-room))
 
 ## Tech stack
